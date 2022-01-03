@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://prnt.sc/25tn1dg)
+- [Desktop](https://prnt.sc/25tn1dg)
 
 ### Links
 - Live Site URL: [Netlify](https://trusting-cray-6c1222.netlify.app/)
